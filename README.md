@@ -1,6 +1,6 @@
 # Desafio-Scrum-Master
 Desafio Análise Crítica
-English
+# English
 A real case of applying the Scrum methodology is the development of Trello project management software by the Fog Creek Software team.
 The agile approach was chosen because the team needed to deal with a highly dynamic environment with ever-changing requirements and uncertainty. The traditional approach, based on a sequential and linear methodology like the waterfall model, was not adequate for the project context.
 The Fog Creek Software team decided to adopt an agile methodology because software development involves a lot of uncertainty and constant change. With the traditional project management approach, based on a sequential and linear methodology like the waterfall model, the team would have to define all the project requirements at once and follow a rigid process to develop the software. This would make it very difficult to deal with changing requirements that might arise during project development.
